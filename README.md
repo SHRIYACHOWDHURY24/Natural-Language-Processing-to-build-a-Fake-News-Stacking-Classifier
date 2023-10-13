@@ -1,2 +1,2 @@
 # Natural-Language-Processing-to-build-a-Fake-News-Stacking-Classifier
-Natural Language Processing creates token vectors of the training dataset and feeds it to a Stacking Classifier model with a Logistic Regression model as the meta classifier, which incorporates include K Nearest Neighbours Classifier, Random Forest Classifer, Support Vector Classifier, Linear Regression and Naive Bayes Probabilistic Classifier.
+Natural Language Processing creates token vectors of the training dataset and feeds it to a Stacking Classifier model, incorporating K Nearest Neighbours Classifier, Random Forest Classifer, Support Vector Classifier, Linear Regression and Naive Bayes Probabilistic Classifier, with a Logistic Regression model as the meta classifier.
