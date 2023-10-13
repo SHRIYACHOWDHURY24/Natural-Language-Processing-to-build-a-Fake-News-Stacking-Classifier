@@ -7,7 +7,7 @@ The training vector is given as input to the 5 training models : k-nearest neigh
 3.	Testing data accuracy after training the Support Vector Classifier model ( classifier 3 ) = 99.1346 % 
 4.	Testing data accuracy after training the Gaussian Naïve Baye’s Probability model ( classifier 4 ) = 80.3846 % 
 5.	Testing data accuracy after training the Logistic Regression Classifier model ( classifier 5 ) = 97.9086 % 
-6.	Accuracy of the Stacked Classifier model = 98.3173 % SCREENSHOT OF CODE AND OUTPUT : 
+6.	Accuracy of the Stacked Classifier model = 98.3173 % 
 
  
  
